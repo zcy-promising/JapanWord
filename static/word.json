@@ -1,0 +1,1034 @@
+{
+  "RECORDS": [
+    {
+      "Jword": "中国人",
+      "Jspeak": "ちゅうごくじん",
+      "Cword": "中国人"
+    },
+    {
+      "Jword": "日本人",
+      "Jspeak": "にほんじん",
+      "Cword": "日本人"
+    },
+    {
+      "Jword": "韓国人",
+      "Jspeak": "かんこくじん",
+      "Cword": "韩国人"
+    },
+    {
+      "Jword": "アメリカ人",
+      "Jspeak": "アメリカじん",
+      "Cword": "美国人"
+    },
+    {
+      "Jword": "フランス人",
+      "Jspeak": "フランスじん",
+      "Cword": "法国人"
+    },
+    {
+      "Jword": "学生",
+      "Jspeak": "がくせい",
+      "Cword": "（大）学生"
+    },
+    {
+      "Jword": "先生",
+      "Jspeak": "せんせい",
+      "Cword": "老师"
+    },
+    {
+      "Jword": "留学生",
+      "Jspeak": "りゅうがくせい",
+      "Cword": "留学生"
+    },
+    {
+      "Jword": "教授",
+      "Jspeak": "きょうじゅ",
+      "Cword": "教授"
+    },
+    {
+      "Jword": "社員",
+      "Jspeak": "しゃいん",
+      "Cword": "职员"
+    },
+    {
+      "Jword": "会社員",
+      "Jspeak": "かいしゃいん",
+      "Cword": "公司职员"
+    },
+    {
+      "Jword": "店員",
+      "Jspeak": "てんいん",
+      "Cword": "店员"
+    },
+    {
+      "Jword": "研修生",
+      "Jspeak": "けんしゅうせい",
+      "Cword": "进修生"
+    },
+    {
+      "Jword": "企業",
+      "Jspeak": "きぎょう",
+      "Cword": "企业"
+    },
+    {
+      "Jword": "大学",
+      "Jspeak": "だいがく",
+      "Cword": "大学"
+    },
+    {
+      "Jword": "父",
+      "Jspeak": "ちち",
+      "Cword": "（我）父亲"
+    },
+    {
+      "Jword": "課長",
+      "Jspeak": "かちょう",
+      "Cword": "科长"
+    },
+    {
+      "Jword": "社長",
+      "Jspeak": "しゃちょう",
+      "Cword": "迎接"
+    },
+    {
+      "Jword": "出迎え",
+      "Jspeak": "でむかえ",
+      "Cword": "总经理，社长"
+    },
+    {
+      "Jword": "あの人",
+      "Jspeak": "あのひと",
+      "Cword": "那个人"
+    },
+    {
+      "Jword": "私",
+      "Jspeak": "わたし",
+      "Cword": "我"
+    },
+    {
+      "Jword": "あなた",
+      "Jspeak": "あなた",
+      "Cword": "你"
+    },
+    {
+      "Jword": "どうも",
+      "Jspeak": "どうも",
+      "Cword": "非常，很"
+    },
+    {
+      "Jword": "はい",
+      "Jspeak": "はい",
+      "Cword": "哎，是（应答）；是的"
+    },
+    {
+      "Jword": "いいえ",
+      "Jspeak": "いいえ",
+      "Cword": "不，不是"
+    },
+    {
+      "Jword": "あっ",
+      "Jspeak": "あっ",
+      "Cword": "哎，哎呀"
+    },
+    {
+      "Jword": "李",
+      "Jspeak": "り",
+      "Cword": "李"
+    },
+    {
+      "Jword": "王",
+      "Jspeak": "おう",
+      "Cword": "王"
+    },
+    {
+      "Jword": "張",
+      "Jspeak": "ちょう",
+      "Cword": "张"
+    },
+    {
+      "Jword": "森",
+      "Jspeak": "もり",
+      "Cword": "森"
+    },
+    {
+      "Jword": "林",
+      "Jspeak": "はやし",
+      "Cword": "林"
+    },
+    {
+      "Jword": "小野",
+      "Jspeak": "おの",
+      "Cword": "小野"
+    },
+    {
+      "Jword": "吉田",
+      "Jspeak": "よしだ",
+      "Cword": "吉田"
+    },
+    {
+      "Jword": "田中",
+      "Jspeak": "たなか",
+      "Cword": "田中"
+    },
+    {
+      "Jword": "中村",
+      "Jspeak": "なかむら",
+      "Cword": "中村"
+    },
+    {
+      "Jword": "太郎",
+      "Jspeak": "たろう",
+      "Cword": "太郎"
+    },
+    {
+      "Jword": "金",
+      "Jspeak": "キム",
+      "Cword": "金"
+    },
+    {
+      "Jword": "デュポン",
+      "Jspeak": "デュポン",
+      "Cword": "迪蓬"
+    },
+    {
+      "Jword": "スミス",
+      "Jspeak": "スミス",
+      "Cword": "史密斯"
+    },
+    {
+      "Jword": "ジョンソン ",
+      "Jspeak": "ジョンソン ",
+      "Cword": "约翰逊"
+    },
+    {
+      "Jword": "中国",
+      "Jspeak": "ちゅうごく",
+      "Cword": "中国"
+    },
+    {
+      "Jword": "東京大学",
+      "Jspeak": "とうきょうだいがく",
+      "Cword": "东京大学"
+    },
+    {
+      "Jword": "北京大学",
+      "Jspeak": "ペキンだいがく",
+      "Cword": "北京大学"
+    },
+    {
+      "Jword": "ＪＣ企画",
+      "Jspeak": "ジェーシーきかく",
+      "Cword": "JC策划公司"
+    },
+    {
+      "Jword": "北京旅行社",
+      "Jspeak": "ペキンりょこうしゃ",
+      "Cword": "北京旅行社"
+    },
+    {
+      "Jword": "日中商事",
+      "Jspeak": "にっちゅうしょうじ",
+      "Cword": "日中商社"
+    },
+    {
+      "Jword": "こんにちは",
+      "Jspeak": "こんにちは",
+      "Cword": "你好"
+    },
+    {
+      "Jword": "すみません",
+      "Jspeak": "すみません",
+      "Cword": "对不起，请问"
+    },
+    {
+      "Jword": "どうぞ",
+      "Jspeak": "どうぞ",
+      "Cword": "请"
+    },
+    {
+      "Jword": "～お願いします",
+      "Jspeak": "よろしくおねがいします",
+      "Cword": "请多关照"
+    },
+    {
+      "Jword": "はじめまして",
+      "Jspeak": "はじめまして",
+      "Cword": "初次见面"
+    },
+    {
+      "Jword": "こちらこそ",
+      "Jspeak": "こちらこそ",
+      "Cword": "我才要（请您～）"
+    },
+    {
+      "Jword": "そうてす",
+      "Jspeak": "そうてす",
+      "Cword": "是（这样）"
+    },
+    {
+      "Jword": "ちがいます",
+      "Jspeak": "ちがいます",
+      "Cword": "不是"
+    },
+    {
+      "Jword": "分かりません",
+      "Jspeak": "わかりません",
+      "Cword": "不知道"
+    },
+    {
+      "Jword": "どうもすみません",
+      "Jspeak": "どうもすみません",
+      "Cword": "实在对不起"
+    },
+    {
+      "Jword": "本",
+      "Jspeak": "ほん",
+      "Cword": "书"
+    },
+    {
+      "Jword": "かばん",
+      "Jspeak": "かばん",
+      "Cword": "包，公文包"
+    },
+    {
+      "Jword": "ノート",
+      "Jspeak": "ノート",
+      "Cword": "笔记本，本子"
+    },
+    {
+      "Jword": "鉛筆",
+      "Jspeak": "えんぴつ",
+      "Cword": "铅笔"
+    },
+    {
+      "Jword": "傘",
+      "Jspeak": "かさ",
+      "Cword": "伞"
+    },
+    {
+      "Jword": "靴",
+      "Jspeak": "くつ",
+      "Cword": "鞋"
+    },
+    {
+      "Jword": "新聞",
+      "Jspeak": "しんぶん",
+      "Cword": "报纸"
+    },
+    {
+      "Jword": "雑誌",
+      "Jspeak": "ざっし",
+      "Cword": "杂志"
+    },
+    {
+      "Jword": "辞書",
+      "Jspeak": "じしょ",
+      "Cword": "词典"
+    },
+    {
+      "Jword": "カメラ",
+      "Jspeak": "カメラ",
+      "Cword": "照相机"
+    },
+    {
+      "Jword": "テレビ",
+      "Jspeak": "テレビ",
+      "Cword": "电视机"
+    },
+    {
+      "Jword": "パソコン",
+      "Jspeak": "パソコン",
+      "Cword": "个人电脑"
+    },
+    {
+      "Jword": "ラジオ",
+      "Jspeak": "ラジオ",
+      "Cword": "收音机"
+    },
+    {
+      "Jword": "電話",
+      "Jspeak": "でんわ",
+      "Cword": "电话"
+    },
+    {
+      "Jword": "机",
+      "Jspeak": "つくえ",
+      "Cword": "桌子，书桌"
+    },
+    {
+      "Jword": "いす",
+      "Jspeak": "いす",
+      "Cword": "椅子"
+    },
+    {
+      "Jword": "かぎ",
+      "Jspeak": "かぎ",
+      "Cword": "钥匙，锁"
+    },
+    {
+      "Jword": "時計",
+      "Jspeak": "とけい",
+      "Cword": "钟，表"
+    },
+    {
+      "Jword": "手帳",
+      "Jspeak": "てちょう",
+      "Cword": "记事本"
+    },
+    {
+      "Jword": "写真",
+      "Jspeak": "しゃしん",
+      "Cword": "照片"
+    },
+    {
+      "Jword": "車",
+      "Jspeak": "くるま",
+      "Cword": "车"
+    },
+    {
+      "Jword": "自転車",
+      "Jspeak": "じてんしゃ",
+      "Cword": "自行车"
+    },
+    {
+      "Jword": "お土産",
+      "Jspeak": "おみやげ",
+      "Cword": "礼物"
+    },
+    {
+      "Jword": "名産品",
+      "Jspeak": "めいさんひん",
+      "Cword": "特产，名产"
+    },
+    {
+      "Jword": "シルク",
+      "Jspeak": "シルク",
+      "Cword": "丝绸"
+    },
+    {
+      "Jword": "ハンカチ",
+      "Jspeak": "ハンカチ",
+      "Cword": "手绢"
+    },
+    {
+      "Jword": "会社",
+      "Jspeak": "かいしゃ",
+      "Cword": "公司"
+    },
+    {
+      "Jword": "方",
+      "Jspeak": "かた",
+      "Cword": "（敬称）位，人"
+    },
+    {
+      "Jword": "人",
+      "Jspeak": "ひと",
+      "Cword": "人"
+    },
+    {
+      "Jword": "家族",
+      "Jspeak": "かぞく",
+      "Cword": "家人，家属"
+    },
+    {
+      "Jword": "母",
+      "Jspeak": "はは",
+      "Cword": "（我）母亲"
+    },
+    {
+      "Jword": "お母さん",
+      "Jspeak": "おかあさん",
+      "Cword": "母亲"
+    },
+    {
+      "Jword": "日本語",
+      "Jspeak": "にほんご",
+      "Cword": "日语"
+    },
+    {
+      "Jword": "中国語",
+      "Jspeak": "ちゅうごくご",
+      "Cword": "汉语，中文"
+    },
+    {
+      "Jword": "これ",
+      "Jspeak": "これ",
+      "Cword": "这，这个"
+    },
+    {
+      "Jword": "それ",
+      "Jspeak": "それ",
+      "Cword": "那，那个"
+    },
+    {
+      "Jword": "あれ",
+      "Jspeak": "あれ",
+      "Cword": "那，那个"
+    },
+    {
+      "Jword": "どれ",
+      "Jspeak": "どれ",
+      "Cword": "哪个"
+    },
+    {
+      "Jword": "何",
+      "Jspeak": "なん",
+      "Cword": "什么"
+    },
+    {
+      "Jword": "だれ",
+      "Jspeak": "だれ",
+      "Cword": "谁"
+    },
+    {
+      "Jword": "どなた",
+      "Jspeak": "どなた",
+      "Cword": "哪位"
+    },
+    {
+      "Jword": "この",
+      "Jspeak": "この",
+      "Cword": "这，这个"
+    },
+    {
+      "Jword": "その",
+      "Jspeak": "その",
+      "Cword": "那，那个"
+    },
+    {
+      "Jword": "あの",
+      "Jspeak": "あの",
+      "Cword": "那，那个"
+    },
+    {
+      "Jword": "どの",
+      "Jspeak": "どの",
+      "Cword": "哪个"
+    },
+    {
+      "Jword": "えっ",
+      "Jspeak": "えっ",
+      "Cword": "啊"
+    },
+    {
+      "Jword": "わあ",
+      "Jspeak": "わあ",
+      "Cword": "哇"
+    },
+    {
+      "Jword": "ええ",
+      "Jspeak": "ええ",
+      "Cword": "嗯，是"
+    },
+    {
+      "Jword": "長島",
+      "Jspeak": "ながしま",
+      "Cword": "长岛"
+    },
+    {
+      "Jword": "日本",
+      "Jspeak": "にほん",
+      "Cword": "日本"
+    },
+    {
+      "Jword": "スワトウ",
+      "Jspeak": "スワトウ",
+      "Cword": "汕头"
+    },
+    {
+      "Jword": "ロンドン",
+      "Jspeak": "ロンドン",
+      "Cword": "伦敦"
+    },
+    {
+      "Jword": "ありがとうございます",
+      "Jspeak": "ありがとうございます",
+      "Cword": "谢谢"
+    },
+    {
+      "Jword": "おいくつ",
+      "Jspeak": "おいくつ",
+      "Cword": "多大"
+    },
+    {
+      "Jword": null,
+      "Jspeak": null,
+      "Cword": null
+    },
+    {
+      "Jword": null,
+      "Jspeak": null,
+      "Cword": null
+    },
+    {
+      "Jword": "デパート",
+      "Jspeak": "デパート",
+      "Cword": "百货商店"
+    },
+    {
+      "Jword": "食堂",
+      "Jspeak": "しょくどう",
+      "Cword": "食堂"
+    },
+    {
+      "Jword": "郵便局",
+      "Jspeak": "ゆうびんきょく",
+      "Cword": "邮局"
+    },
+    {
+      "Jword": "銀行",
+      "Jspeak": "ぎんこう",
+      "Cword": "银行"
+    },
+    {
+      "Jword": "図書館",
+      "Jspeak": "としょかん",
+      "Cword": "图书馆"
+    },
+    {
+      "Jword": "マンション",
+      "Jspeak": "マンション",
+      "Cword": "（高级）公寓"
+    },
+    {
+      "Jword": "ホテル",
+      "Jspeak": "ホテル",
+      "Cword": "宾馆"
+    },
+    {
+      "Jword": "コンビニ",
+      "Jspeak": "コンビニ",
+      "Cword": "便利店"
+    },
+    {
+      "Jword": "喫茶店",
+      "Jspeak": "きっさてん",
+      "Cword": "咖啡馆"
+    },
+    {
+      "Jword": "病院",
+      "Jspeak": "びょういん",
+      "Cword": "医院"
+    },
+    {
+      "Jword": "本屋",
+      "Jspeak": "ほんや",
+      "Cword": "书店"
+    },
+    {
+      "Jword": "レストラン",
+      "Jspeak": "レストラン",
+      "Cword": "餐馆，西餐馆"
+    },
+    {
+      "Jword": "ビル",
+      "Jspeak": "ビル",
+      "Cword": "大楼，大厦"
+    },
+    {
+      "Jword": "建物",
+      "Jspeak": "たてもの",
+      "Cword": "大楼，建筑物"
+    },
+    {
+      "Jword": "売り場",
+      "Jspeak": "うりば",
+      "Cword": "柜台，出售处"
+    },
+    {
+      "Jword": "トイレ",
+      "Jspeak": "トイレ",
+      "Cword": "厕所，盥洗室"
+    },
+    {
+      "Jword": "入り口",
+      "Jspeak": "いりぐち",
+      "Cword": "入口"
+    },
+    {
+      "Jword": "事務所",
+      "Jspeak": "じむしょ",
+      "Cword": "事务所，办事处"
+    },
+    {
+      "Jword": "受付",
+      "Jspeak": "うけつけ",
+      "Cword": "接待处"
+    },
+    {
+      "Jword": "～会場",
+      "Jspeak": "バーゲンかいじょ",
+      "Cword": "降价处理大卖场"
+    },
+    {
+      "Jword": "エスカレーター",
+      "Jspeak": "エスカレーター",
+      "Cword": "自动扶梯"
+    },
+    {
+      "Jword": "服",
+      "Jspeak": "ふく",
+      "Cword": "衣服"
+    },
+    {
+      "Jword": "コート",
+      "Jspeak": "コート",
+      "Cword": "风衣，大衣"
+    },
+    {
+      "Jword": "デジカメ",
+      "Jspeak": "デジカメ",
+      "Cword": "数码相机"
+    },
+    {
+      "Jword": "国",
+      "Jspeak": "くに",
+      "Cword": "国，国家"
+    },
+    {
+      "Jword": "地図",
+      "Jspeak": "ちず",
+      "Cword": "地图"
+    },
+    {
+      "Jword": "隣",
+      "Jspeak": "となり",
+      "Cword": "旁边"
+    },
+    {
+      "Jword": "周辺",
+      "Jspeak": "しゅうへん",
+      "Cword": "附近，周边"
+    },
+    {
+      "Jword": "今日",
+      "Jspeak": "きょう",
+      "Cword": "今天"
+    },
+    {
+      "Jword": "水曜日",
+      "Jspeak": "すいようび",
+      "Cword": "星期三"
+    },
+    {
+      "Jword": "木曜日",
+      "Jspeak": "もくようび",
+      "Cword": "星期四"
+    },
+    {
+      "Jword": "ここ",
+      "Jspeak": "ここ",
+      "Cword": "这里，这儿"
+    },
+    {
+      "Jword": "そこ",
+      "Jspeak": "そこ",
+      "Cword": "那里，那儿"
+    },
+    {
+      "Jword": "あそこ",
+      "Jspeak": "あそこ",
+      "Cword": "那里，那儿"
+    },
+    {
+      "Jword": "こちら",
+      "Jspeak": "こちら",
+      "Cword": "这儿，这边"
+    },
+    {
+      "Jword": "そちら",
+      "Jspeak": "そちら",
+      "Cword": "那儿，那边"
+    },
+    {
+      "Jword": "あちら",
+      "Jspeak": "あちら",
+      "Cword": "那儿，那边"
+    },
+    {
+      "Jword": "どこ",
+      "Jspeak": "どこ",
+      "Cword": "哪里，哪儿"
+    },
+    {
+      "Jword": "どちら",
+      "Jspeak": "どちら",
+      "Cword": "哪儿，哪边"
+    },
+    {
+      "Jword": "あのう",
+      "Jspeak": "あのう",
+      "Cword": "请问，对不起"
+    },
+    {
+      "Jword": "上海",
+      "Jspeak": "シャンハイ",
+      "Cword": "上海"
+    },
+    {
+      "Jword": "東京",
+      "Jspeak": "とうきょう",
+      "Cword": "东京"
+    },
+    {
+      "Jword": "いくら",
+      "Jspeak": "いくら",
+      "Cword": "多少钱"
+    },
+    {
+      "Jword": null,
+      "Jspeak": null,
+      "Cword": null
+    },
+    {
+      "Jword": "部屋",
+      "Jspeak": "へや",
+      "Cword": "房间，屋子"
+    },
+    {
+      "Jword": "庭",
+      "Jspeak": "にわ",
+      "Cword": "院子"
+    },
+    {
+      "Jword": "家",
+      "Jspeak": "いえ",
+      "Cword": "家"
+    },
+    {
+      "Jword": "居間",
+      "Jspeak": "いま",
+      "Cword": "起居室"
+    },
+    {
+      "Jword": "冷蔵庫",
+      "Jspeak": "れいぞうこ",
+      "Cword": "冰箱"
+    },
+    {
+      "Jword": "壁",
+      "Jspeak": "かべ",
+      "Cword": "墙壁"
+    },
+    {
+      "Jword": "スイッチ",
+      "Jspeak": "スイッチ",
+      "Cword": "开关"
+    },
+    {
+      "Jword": "本棚",
+      "Jspeak": "ほんだな",
+      "Cword": "书架"
+    },
+    {
+      "Jword": "ベッド",
+      "Jspeak": "ベッド ",
+      "Cword": "床"
+    },
+    {
+      "Jword": "猫",
+      "Jspeak": "ねこ",
+      "Cword": "猫"
+    },
+    {
+      "Jword": "犬",
+      "Jspeak": "いぬ",
+      "Cword": "狗"
+    },
+    {
+      "Jword": "箱",
+      "Jspeak": "はこ",
+      "Cword": "盒子，箱子"
+    },
+    {
+      "Jword": "眼鏡",
+      "Jspeak": "めがね",
+      "Cword": "眼镜"
+    },
+    {
+      "Jword": "ビデオ",
+      "Jspeak": "ビデオ",
+      "Cword": "录像机"
+    },
+    {
+      "Jword": "サッカーボール",
+      "Jspeak": "サッカーボール",
+      "Cword": "足球"
+    },
+    {
+      "Jword": "ビール",
+      "Jspeak": "ビール",
+      "Cword": "啤酒"
+    },
+    {
+      "Jword": "ウイスキー",
+      "Jspeak": "ウイスキー",
+      "Cword": "威士忌"
+    },
+    {
+      "Jword": "子供",
+      "Jspeak": "こども",
+      "Cword": "孩子，小孩"
+    },
+    {
+      "Jword": "兄弟",
+      "Jspeak": "きょうだい",
+      "Cword": "兄弟姐妹"
+    },
+    {
+      "Jword": "両親",
+      "Jspeak": "りょうしん",
+      "Cword": "父母，双亲"
+    },
+    {
+      "Jword": "妹",
+      "Jspeak": "いもうと",
+      "Cword": "妹妹"
+    },
+    {
+      "Jword": "男",
+      "Jspeak": "おとこ",
+      "Cword": "男"
+    },
+    {
+      "Jword": "女",
+      "Jspeak": "おんな",
+      "Cword": "女"
+    },
+    {
+      "Jword": "生徒",
+      "Jspeak": "せいと",
+      "Cword": "学生"
+    },
+    {
+      "Jword": "上",
+      "Jspeak": "うえ",
+      "Cword": "上面"
+    },
+    {
+      "Jword": "外",
+      "Jspeak": "そと",
+      "Cword": "外面"
+    },
+    {
+      "Jword": "中",
+      "Jspeak": "なか",
+      "Cword": "里面，内部，中间"
+    },
+    {
+      "Jword": "下",
+      "Jspeak": "した",
+      "Cword": "下面"
+    },
+    {
+      "Jword": "前",
+      "Jspeak": "まえ",
+      "Cword": "前，前面"
+    },
+    {
+      "Jword": "後ろ",
+      "Jspeak": "うしろ",
+      "Cword": "后，后面"
+    },
+    {
+      "Jword": "近く",
+      "Jspeak": "ちかく",
+      "Cword": "附近，近旁"
+    },
+    {
+      "Jword": "場所",
+      "Jspeak": "ばしょ",
+      "Cword": "所在地，地方，场所"
+    },
+    {
+      "Jword": "教室",
+      "Jspeak": "きょうしつ",
+      "Cword": "教室"
+    },
+    {
+      "Jword": "会議室",
+      "Jspeak": "かいぎしつ",
+      "Cword": "会议室"
+    },
+    {
+      "Jword": "図書室",
+      "Jspeak": "としょしつ",
+      "Cword": "图书室"
+    },
+    {
+      "Jword": "公園",
+      "Jspeak": "こうえん",
+      "Cword": "公园"
+    },
+    {
+      "Jword": "花屋",
+      "Jspeak": "はなや",
+      "Cword": "花店"
+    },
+    {
+      "Jword": "売店",
+      "Jspeak": "ばいてん",
+      "Cword": "小卖部，售货亭"
+    },
+    {
+      "Jword": "駅",
+      "Jspeak": "えき",
+      "Cword": "车站"
+    },
+    {
+      "Jword": "地下鉄",
+      "Jspeak": "ちかてつ",
+      "Cword": "地铁"
+    },
+    {
+      "Jword": "樹",
+      "Jspeak": "き",
+      "Cword": "树，树木"
+    },
+    {
+      "Jword": "一人暮らし",
+      "Jspeak": "ひとりぐらし",
+      "Cword": "单身生活"
+    },
+    {
+      "Jword": "あります",
+      "Jspeak": "あります",
+      "Cword": "有，在（非意志者）"
+    },
+    {
+      "Jword": "います",
+      "Jspeak": "います",
+      "Cword": "有，在（具意志者）"
+    },
+    {
+      "Jword": "ええと",
+      "Jspeak": "ええと",
+      "Cword": "啊，嗯"
+    },
+    {
+      "Jword": "横浜",
+      "Jspeak": "よこはま",
+      "Cword": "横滨"
+    },
+    {
+      "Jword": "名古屋",
+      "Jspeak": "なごや",
+      "Cword": "名古屋"
+    },
+    {
+      "Jword": "大阪",
+      "Jspeak": "おおさか",
+      "Cword": "大阪"
+    },
+    {
+      "Jword": "ＪＲ",
+      "Jspeak": "ジェーアール",
+      "Cword": "JR"
+    },
+    {
+      "Jword": null,
+      "Jspeak": null,
+      "Cword": null
+    }
+  ]
+}
